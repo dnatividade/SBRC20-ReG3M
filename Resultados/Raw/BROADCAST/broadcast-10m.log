@@ -1,0 +1,1992 @@
+Version: 5.5.1, build: 190613-08ba16f914, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+
+
+Loading NED files from ../../src/veins:  42
+Loading NED files from /home/veins/workspace.omnetpp/lair/examples/lair:  1
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 81:  30.0003| Tempo: 1503.354519120345
+Distância do 75:  37.0226| Tempo: 1503.354519134495
+Distância do 165:  22.1147| Tempo: 1503.354519134495
+Distância do 111:  37.5013| Tempo: 1503.354519138582
+Distância do 117:  44.5004| Tempo: 1503.354519159516
+Distância do 99:  45.0024| Tempo: 1503.354519162657
+Distância do 57:  51.9848| Tempo: 1503.354519184537
+Distância do 183:  52.5034| Tempo: 1503.35451918733
+Distância do 177:  59.4734| Tempo: 1503.354519209557
+Distância do 291:  66.9649| Tempo: 1503.354519234578
+Distância do 135:  60.0044| Tempo: 1510.021603288342
+Distância do 63:  67.5054| Tempo: 1513.355171362459
+Distância do 279:  74.4582| Tempo: 1513.355171386594
+Distância do 237:  75.0065| Tempo: 1513.35517138748
+Distância do 273:  82.5076| Tempo: 1513.3551714125
+Distância do 255:  90.0086| Tempo: 1513.355171437521
+Distância do 339:  96.9455| Tempo: 1513.355171460946
+Distância do 315:  81.953| Tempo: 1515.052596411615
+Distância do 333:  97.5096| Tempo: 1518.386164473714
+Distância do 219:  89.4488| Tempo: 1520.052948498434
+Distância do 261:  104.443| Tempo: 1520.052948548476
+Distância do 267:  105.011| Tempo: 1520.052948551269
+Distância do 285:  111.94| Tempo: 1520.052948573496
+Distância do 321:  112.512| Tempo: 1520.05294857611
+Distância do 297:  119.439| Tempo: 1520.052948598517
+Distância do 351:  120.013| Tempo: 1521.719758601657
+Distância do 87:  126.937| Tempo: 1521.7197586252
+Distância do 249:  127.514| Tempo: 1521.719758626678
+Distância do 225:  134.436| Tempo: 1523.386529650418
+Distância do 201:  135.015| Tempo: 1523.386529653557
+Distância do 159:  142.516| Tempo: 1523.386529678231
+Distância do 357:  141.935| Tempo: 1530.053626778326
+Distância do 363:  149.434| Tempo: 1530.053626803347
+Distância do 27:  150.017| Tempo: 1530.053626806486
+Distância do 327:  157.518| Tempo: 1530.053626831159
+Distância do 207:  172.52| Tempo: 1530.053626880913
+Distância do 393:  156.934| Tempo: 1531.756992828368
+Distância do 411:  164.433| Tempo: 1531.756992853389
+Distância do 303:  165.019| Tempo: 1531.756992856528
+Distância do 483:  171.933| Tempo: 1531.756992878409
+
+<!> Simulation time limit reached -- at t=1590s, event #152580
+
+Calling finish() at end of Run #0...
+Número de veículos que receberam o vídeo: 49
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 111:  37.5013| Tempo: 1508.36703924723
+Distância do 117:  44.5004| Tempo: 1508.36703926138
+Distância do 81:  30.0003| Tempo: 1508.367039261681
+Distância do 99:  45.0024| Tempo: 1508.367039265466
+Distância do 51:  22.4993| Tempo: 1508.367039285514
+Distância do 57:  51.9848| Tempo: 1508.367039286401
+Distância do 165:  22.1147| Tempo: 1508.367039286401
+Distância do 183:  52.5034| Tempo: 1508.367039289542
+Distância do 177:  59.4734| Tempo: 1508.367039311422
+Distância do 135:  60.0044| Tempo: 1508.367039314215
+Distância do 291:  66.9649| Tempo: 1508.367039336442
+Distância do 273:  82.5076| Tempo: 1508.367039388916
+Distância do 255:  90.0086| Tempo: 1515.034136564244
+Distância do 219:  89.4488| Tempo: 1515.034136564545
+Distância do 333:  97.5096| Tempo: 1516.755494589265
+Distância do 339:  96.9455| Tempo: 1516.755494589566
+Distância do 315:  81.953| Tempo: 1516.755494593351
+Distância do 261:  104.443| Tempo: 1516.755494613401
+Distância do 237:  75.0065| Tempo: 1516.755494614285
+Distância do 267:  105.011| Tempo: 1516.755494614285
+Distância do 279:  74.4582| Tempo: 1516.755494617426
+Distância do 285:  111.94| Tempo: 1516.755494638025
+Distância do 321:  112.512| Tempo: 1516.755494639306
+Distância do 351:  120.013| Tempo: 1516.755494664327
+Distância do 297:  119.439| Tempo: 1520.089036675199
+Distância do 201:  135.015| Tempo: 1520.089036727854
+Distância do 87:  126.937| Tempo: 1523.422578704607
+Distância do 249:  127.514| Tempo: 1523.422578708692
+Distância do 225:  134.436| Tempo: 1523.422578729628
+Distância do 63:  67.5054| Tempo: 1523.422578748979
+Distância do 357:  141.935| Tempo: 1530.089663059516
+Distância do 159:  142.516| Tempo: 1530.0896630604
+Distância do 363:  149.434| Tempo: 1530.089663084141
+Distância do 27:  150.017| Tempo: 1530.089663085421
+Distância do 483:  171.933| Tempo: 1531.756434171354
+Distância do 393:  156.934| Tempo: 1533.423205121313
+Distância do 327:  157.518| Tempo: 1533.423205124452
+Distância do 303:  165.019| Tempo: 1533.423205149125
+Distância do 195:  180.021| Tempo: 1533.423205198879
+Distância do 405:  187.522| Tempo: 1536.756747225481
+Distância do 471:  195.023| Tempo: 1540.09028930335
+Distância do 435:  194.433| Tempo: 1541.78670031422
+Distância do 309:  202.524| Tempo: 1541.786700328371
+Distância do 231:  201.933| Tempo: 1541.786700328674
+Distância do 387:  186.933| Tempo: 1541.786700332455
+Distância do 501:  209.433| Tempo: 1541.786700352508
+Distância do 345:  210.025| Tempo: 1541.786700353391
+Distância do 519:  216.933| Tempo: 1541.786700377132
+Distância do 207:  172.52| Tempo: 1541.786700378412
+Distância do 531:  225.027| Tempo: 1541.786700403433
+Distância do 417:  217.526| Tempo: 1543.490274381613
+Distância do 507:  224.433| Tempo: 1543.49027440255
+Distância do 585:  239.434| Tempo: 1543.490274452591
+Distância do 555:  232.528| Tempo: 1545.157045430709
+Distância do 549:  231.934| Tempo: 1545.157045431012
+Distância do 465:  179.433| Tempo: 1546.823816452592
+Distância do 411:  164.433| Tempo: 1553.490913708441
+
+<!> Simulation time limit reached -- at t=1590s, event #207620
+
+Calling finish() at end of Run #1...
+Número de veículos que receberam o vídeo: 66
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 117:  44.5004| Tempo: 1510.020823416231
+Distância do 99:  45.0024| Tempo: 1511.773303427102
+Distância do 57:  51.9848| Tempo: 1511.773303441252
+Distância do 111:  37.5013| Tempo: 1511.773303441553
+Distância do 183:  52.5034| Tempo: 1511.773303445338
+Distância do 177:  59.4734| Tempo: 1511.773303466273
+Distância do 135:  60.0044| Tempo: 1511.773303469413
+Distância do 291:  66.9649| Tempo: 1511.773303491294
+Distância do 279:  74.4582| Tempo: 1511.773303516314
+Distância do 237:  75.0065| Tempo: 1511.773303518929
+Distância do 63:  67.5054| Tempo: 1513.461901495379
+Distância do 315:  81.953| Tempo: 1520.128985599206
+Distância do 273:  82.5076| Tempo: 1520.128985603292
+Distância do 219:  89.4488| Tempo: 1520.128985624227
+Distância do 255:  90.0086| Tempo: 1520.128985627367
+Distância do 339:  96.9455| Tempo: 1520.128985649248
+Distância do 333:  97.5096| Tempo: 1521.824447653333
+Distância do 261:  104.443| Tempo: 1525.158002678656
+Distância do 267:  105.011| Tempo: 1525.158002682742
+Distância do 285:  111.94| Tempo: 1525.158002703677
+Distância do 321:  112.512| Tempo: 1525.158002706817
+Distância do 297:  119.439| Tempo: 1525.158002728698
+Distância do 225:  134.436| Tempo: 1525.158002778739
+Distância do 351:  120.013| Tempo: 1528.491544739568
+Distância do 87:  126.937| Tempo: 1528.491544763704
+Distância do 249:  127.514| Tempo: 1528.491544764588
+Distância do 159:  142.516| Tempo: 1528.49154481463
+Distância do 201:  135.015| Tempo: 1530.158315793051
+Distância do 27:  150.017| Tempo: 1530.158315842567
+Distância do 357:  141.935| Tempo: 1531.825086828595
+Distância do 363:  149.434| Tempo: 1531.825086843048
+Distância do 393:  156.934| Tempo: 1536.825400018193
+Distância do 327:  157.518| Tempo: 1538.492171020986
+Distância do 411:  164.433| Tempo: 1538.492171045123
+Distância do 303:  165.019| Tempo: 1538.492171046006
+Distância do 207:  172.52| Tempo: 1538.492171071027
+Distância do 465:  179.433| Tempo: 1538.492171094571
+Distância do 435:  194.433| Tempo: 1540.15894215696
+Distância do 483:  171.933| Tempo: 1543.492484139163
+Distância do 405:  187.522| Tempo: 1543.492484191817
+Distância do 195:  180.021| Tempo: 1548.492823275573
+Distância do 387:  186.933| Tempo: 1548.492823296509
+Distância do 231:  201.933| Tempo: 1548.492823346551
+Distância do 309:  202.524| Tempo: 1548.492823349164
+Distância do 345:  210.025| Tempo: 1548.492823374075
+Distância do 471:  195.023| Tempo: 1550.190534325614
+Distância do 519:  216.933| Tempo: 1550.190534396592
+Distância do 417:  217.526| Tempo: 1550.190534399205
+Distância do 501:  209.433| Tempo: 1555.190847470677
+Distância do 507:  224.433| Tempo: 1555.190847470677
+Distância do 531:  225.027| Tempo: 1555.190847474761
+Distância do 549:  231.934| Tempo: 1555.190847495697
+Distância do 555:  232.528| Tempo: 1555.190847498836
+Distância do 585:  239.434| Tempo: 1555.190847520718
+Distância do 657:  247.53| Tempo: 1555.190847548352
+Distância do 591:  240.029| Tempo: 1558.524389541178
+Distância do 639:  246.934| Tempo: 1558.524389555329
+Distância do 645:  254.435| Tempo: 1558.52438958035
+Distância do 153:  255.031| Tempo: 1558.524389583488
+
+<!> Simulation time limit reached -- at t=1590s, event #226461
+
+Calling finish() at end of Run #2...
+Número de veículos que receberam o vídeo: 71
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 99:  45.0024| Tempo: 1501.666844160995
+Distância do 105:  29.5568| Tempo: 1503.361539110067
+Distância do 177:  59.4734| Tempo: 1503.361539210151
+Distância do 117:  44.5004| Tempo: 1505.028310173595
+Distância do 111:  37.5013| Tempo: 1505.028310187745
+Distância do 183:  52.5034| Tempo: 1505.028310187745
+Distância do 57:  51.9848| Tempo: 1505.028310188046
+Distância do 135:  60.0044| Tempo: 1511.695394391906
+Distância do 291:  66.9649| Tempo: 1511.695394406056
+Distância do 63:  67.5054| Tempo: 1511.695394410142
+Distância do 279:  74.4582| Tempo: 1511.695394431077
+Distância do 237:  75.0065| Tempo: 1511.695394434217
+Distância do 315:  81.953| Tempo: 1511.695394456098
+Distância do 273:  82.5076| Tempo: 1511.695394458891
+Distância do 255:  90.0086| Tempo: 1511.695394483733
+Distância do 333:  97.5096| Tempo: 1511.695394508645
+Distância do 219:  89.4488| Tempo: 1516.733784534361
+Distância do 261:  104.443| Tempo: 1516.73378458381
+
+<!> Simulation time limit reached -- at t=1590s, event #91397
+
+Calling finish() at end of Run #3...
+Número de veículos que receberam o vídeo: 29
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 81:  30.0003| Tempo: 1505.022772114396
+Distância do 99:  45.0024| Tempo: 1505.022772163911
+Distância do 75:  37.0226| Tempo: 1506.689543136275
+Distância do 111:  37.5013| Tempo: 1513.356627350115
+Distância do 117:  44.5004| Tempo: 1513.356627364265
+Distância do 57:  51.9848| Tempo: 1513.356627389286
+Distância do 183:  52.5034| Tempo: 1513.356627392427
+Distância do 177:  59.4734| Tempo: 1513.356627414307
+Distância do 135:  60.0044| Tempo: 1513.3566274171
+Distância do 291:  66.9649| Tempo: 1513.356627439327
+Distância do 63:  67.5054| Tempo: 1516.714258452453
+Distância do 279:  74.4582| Tempo: 1518.381029474334
+Distância do 237:  75.0065| Tempo: 1518.381029477474
+Distância do 255:  90.0086| Tempo: 1518.38102952699
+Distância do 261:  104.443| Tempo: 1518.381029574417
+Distância do 267:  105.011| Tempo: 1523.381342585289
+Distância do 285:  111.94| Tempo: 1523.381342599439
+Distância do 339:  96.9455| Tempo: 1523.381342599439
+Distância do 333:  97.5096| Tempo: 1523.381342599741
+Distância do 321:  112.512| Tempo: 1523.381342603524
+Distância do 219:  89.4488| Tempo: 1523.38134262446
+Distância do 297:  119.439| Tempo: 1523.38134262446
+Distância do 351:  120.013| Tempo: 1523.381342627599
+Distância do 87:  126.937| Tempo: 1523.381342649481
+Distância do 225:  134.436| Tempo: 1523.381342674501
+Distância do 273:  82.5076| Tempo: 1525.048126648596
+Distância do 315:  81.953| Tempo: 1525.048126652682
+
+<!> Simulation time limit reached -- at t=1590s, event #117479
+
+Calling finish() at end of Run #4...
+Número de veículos que receberam o vídeo: 37
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 105:  29.5568| Tempo: 1506.689140210151
+Distância do 57:  51.9848| Tempo: 1506.689140284503
+Distância do 183:  52.5034| Tempo: 1511.689466344748
+Distância do 117:  44.5004| Tempo: 1511.689466358898
+Distância do 177:  59.4734| Tempo: 1511.689466358898
+Distância do 99:  45.0024| Tempo: 1511.689466359199
+Distância do 135:  60.0044| Tempo: 1511.689466362984
+Distância do 111:  37.5013| Tempo: 1511.689466383033
+Distância do 291:  66.9649| Tempo: 1511.689466383919
+Distância do 63:  67.5054| Tempo: 1511.689466387059
+Distância do 279:  74.4582| Tempo: 1511.68946640894
+Distância do 237:  75.0065| Tempo: 1511.689466411733
+Distância do 315:  81.953| Tempo: 1511.689466433961
+Distância do 255:  90.0086| Tempo: 1511.689466461487
+Distância do 273:  82.5076| Tempo: 1513.377115437101
+Distância do 219:  89.4488| Tempo: 1513.377115460839
+Distância do 333:  97.5096| Tempo: 1513.377115487142
+Distância do 339:  96.9455| Tempo: 1516.710657587526
+Distância do 267:  105.011| Tempo: 1518.377428612246
+Distância do 261:  104.443| Tempo: 1521.710970666374
+Distância do 285:  111.94| Tempo: 1521.710970691395
+Distância do 321:  112.512| Tempo: 1521.710970694535
+Distância do 297:  119.439| Tempo: 1521.710970716416
+Distância do 201:  135.015| Tempo: 1521.710970768962
+Distância do 357:  141.935| Tempo: 1521.710970791478
+Distância do 351:  120.013| Tempo: 1523.377754720501
+Distância do 249:  127.514| Tempo: 1523.377754745522
+Distância do 159:  142.516| Tempo: 1523.377754795564
+Distância do 225:  134.436| Tempo: 1526.711309820887
+Distância do 363:  149.434| Tempo: 1526.711309820887
+Distância do 27:  150.017| Tempo: 1526.711309824972
+Distância do 87:  126.937| Tempo: 1526.711309845908
+Distância do 393:  156.934| Tempo: 1526.711309845908
+Distância do 411:  164.433| Tempo: 1526.711309870928
+Distância do 207:  172.52| Tempo: 1526.711309898562
+Distância do 483:  171.933| Tempo: 1531.711623056977
+Distância do 195:  180.021| Tempo: 1531.711623071128
+Distância do 303:  165.019| Tempo: 1533.378394086082
+Distância do 465:  179.433| Tempo: 1535.045165125254
+Distância do 387:  186.933| Tempo: 1535.045165150274
+Distância do 405:  187.522| Tempo: 1535.045165153413
+Distância do 327:  157.518| Tempo: 1536.711949150578
+Distância do 435:  194.433| Tempo: 1538.378720190249
+Distância do 471:  195.023| Tempo: 1538.378720193388
+Distância do 309:  202.524| Tempo: 1538.378720218062
+Distância do 519:  216.933| Tempo: 1538.378720265312
+Distância do 231:  201.933| Tempo: 1541.712262230224
+Distância do 417:  217.526| Tempo: 1541.712262282879
+Distância do 345:  210.025| Tempo: 1545.04581725933
+Distância do 501:  209.433| Tempo: 1545.045817259633
+Distância do 549:  231.934| Tempo: 1545.045817332915
+Distância do 555:  232.528| Tempo: 1545.045817334392
+Distância do 657:  247.53| Tempo: 1545.045817384434
+Distância do 531:  225.027| Tempo: 1546.712588309371
+Distância do 507:  224.433| Tempo: 1546.712588309674
+Distância do 585:  239.434| Tempo: 1546.712588358132
+Distância do 591:  240.029| Tempo: 1548.379359359413
+Distância do 213:  262.532| Tempo: 1551.712901537365
+Distância do 243:  270.033| Tempo: 1551.712901562313
+Distância do 639:  246.934| Tempo: 1553.379672484821
+Distância do 399:  261.935| Tempo: 1553.379672534862
+Distância do 513:  269.436| Tempo: 1558.379985665718
+Distância do 645:  254.435| Tempo: 1558.379985665718
+Distância do 153:  255.031| Tempo: 1558.379985666021
+Distância do 537:  276.936| Tempo: 1558.379985690739
+Distância do 381:  277.534| Tempo: 1558.379985693877
+Distância do 369:  285.035| Tempo: 1558.379985718551
+Distância do 489:  300.037| Tempo: 1558.379985768305
+Distância do 579:  284.437| Tempo: 1560.07647471576
+Distância do 459:  292.536| Tempo: 1560.076474743572
+Distância do 681:  291.937| Tempo: 1563.410016804305
+Distância do 723:  299.438| Tempo: 1563.410016818759
+Distância do 663:  306.939| Tempo: 1563.410016842593
+Distância do 495:  307.538| Tempo: 1568.410355951728
+Distância do 717:  314.439| Tempo: 1568.410355972665
+Distância do 375:  315.039| Tempo: 1568.410355975803
+Distância do 765:  321.94| Tempo: 1568.410355997685
+Distância do 609:  329.441| Tempo: 1568.410356022706
+Distância do 429:  330.042| Tempo: 1568.410356025318
+Distância do 423:  322.54| Tempo: 1570.122692001769
+Distância do 627:  336.941| Tempo: 1570.122692050334
+Distância do 453:  337.543| Tempo: 1571.789463054615
+Distância do 567:  344.442| Tempo: 1571.789463075551
+Distância do 447:  345.044| Tempo: 1571.78946307869
+Distância do 597:  352.545| Tempo: 1571.789463103364
+Distância do 687:  367.547| Tempo: 1571.789463153117
+Distância do 543:  374.445| Tempo: 1571.789463175634
+Distância do 741:  381.946| Tempo: 1576.789776209931
+Distância do 771:  382.549| Tempo: 1576.789776214015
+Distância do 735:  351.943| Tempo: 1580.123318166175
+Distância do 753:  359.443| Tempo: 1580.123318190009
+Distância do 669:  360.046| Tempo: 1580.123318190893
+Distância do 693:  366.944| Tempo: 1580.123318214633
+Distância do 621:  375.048| Tempo: 1580.123318240934
+Distância do 705:  390.05| Tempo: 1581.790102290976
+Distância do 651:  389.446| Tempo: 1581.790102291279
+Distância do 711:  396.947| Tempo: 1581.790102315113
+Distância do 525:  397.551| Tempo: 1581.790102315997
+Distância do 615:  405.052| Tempo: 1581.790102341017
+Distância do 573:  411.949| Tempo: 1581.790102364561
+Distância do 729:  404.448| Tempo: 1586.79041536306
+Distância do 441:  412.553| Tempo: 1586.790415387777
+
+<!> Simulation time limit reached -- at t=1590s, event #352277
+
+Calling finish() at end of Run #5...
+Número de veículos que receberam o vídeo: 113
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 165:  22.1147| Tempo: 1503.357860086233
+Distância do 105:  29.5568| Tempo: 1503.357860110067
+Distância do 111:  37.5013| Tempo: 1503.357860135974
+
+<!> Simulation time limit reached -- at t=1590s, event #45546
+
+Calling finish() at end of Run #6...
+Número de veículos que receberam o vídeo: 13
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 105:  29.5568| Tempo: 1506.728192174474
+Distância do 57:  51.9848| Tempo: 1508.394963340229
+Distância do 75:  37.0226| Tempo: 1510.061747290187
+Distância do 111:  37.5013| Tempo: 1510.061747294274
+Distância do 117:  44.5004| Tempo: 1510.061747315208
+Distância do 99:  45.0024| Tempo: 1510.061747318349
+Distância do 183:  52.5034| Tempo: 1510.061747343022
+Distância do 135:  60.0044| Tempo: 1510.061747367864
+Distância do 177:  59.4734| Tempo: 1511.72851836525
+Distância do 291:  66.9649| Tempo: 1511.728518390271
+Distância do 63:  67.5054| Tempo: 1511.728518393411
+Distância do 279:  74.4582| Tempo: 1511.728518415292
+Distância do 237:  75.0065| Tempo: 1511.728518418085
+Distância do 219:  89.4488| Tempo: 1513.39528946794
+Distância do 273:  82.5076| Tempo: 1516.728831444399
+Distância do 315:  81.953| Tempo: 1516.7288314447
+Distância do 255:  90.0086| Tempo: 1521.729144577676
+Distância do 339:  96.9455| Tempo: 1521.729144598611
+Distância do 333:  97.5096| Tempo: 1521.729144601751
+Distância do 267:  105.011| Tempo: 1521.729144626425
+Distância do 351:  120.013| Tempo: 1521.729144676178
+Distância do 261:  104.443| Tempo: 1523.418457626833
+Distância do 87:  126.937| Tempo: 1523.418457701184
+Distância do 285:  111.94| Tempo: 1525.085228651854
+Distância do 321:  112.512| Tempo: 1525.085228652738
+Distância do 297:  119.439| Tempo: 1528.418770691832
+Distância do 249:  127.514| Tempo: 1528.418770717737
+Distância do 225:  134.436| Tempo: 1528.41877074128
+Distância do 201:  135.015| Tempo: 1531.752312745959
+Distância do 357:  141.935| Tempo: 1531.752312766895
+Distância do 159:  142.516| Tempo: 1531.752312770034
+Distância do 363:  149.434| Tempo: 1531.752312791916
+Distância do 27:  150.017| Tempo: 1531.752312794708
+Distância do 483:  171.933| Tempo: 1531.752312866978
+
+<!> Simulation time limit reached -- at t=1590s, event #138677
+
+Calling finish() at end of Run #7...
+Número de veículos que receberam o vídeo: 44
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 51:  22.4993| Tempo: 1508.359902107676
+Distância do 165:  22.1147| Tempo: 1508.359902107976
+Distância do 81:  30.0003| Tempo: 1510.068611132697
+Distância do 105:  29.5568| Tempo: 1510.068611132997
+Distância do 111:  37.5013| Tempo: 1510.068611157717
+Distância do 99:  45.0024| Tempo: 1510.068611182738
+Distância do 63:  67.5054| Tempo: 1510.0686112578
+Distância do 117:  44.5004| Tempo: 1511.73538219361
+Distância do 177:  59.4734| Tempo: 1513.402153246259
+Distância do 135:  60.0044| Tempo: 1513.402153247738
+Distância do 57:  51.9848| Tempo: 1515.068924233589
+Distância do 237:  75.0065| Tempo: 1516.735695311157
+Distância do 183:  52.5034| Tempo: 1518.402466286772
+Distância do 291:  66.9649| Tempo: 1518.402466335334
+Distância do 273:  82.5076| Tempo: 1521.736008386855
+Distância do 255:  90.0086| Tempo: 1525.069550475403
+Distância do 219:  89.4488| Tempo: 1526.795380486274
+Distância do 333:  97.5096| Tempo: 1526.795380500424
+Distância do 339:  96.9455| Tempo: 1526.795380500725
+Distância do 315:  81.953| Tempo: 1526.79538050451
+Distância do 261:  104.443| Tempo: 1526.79538052456
+Distância do 267:  105.011| Tempo: 1526.795380525444
+Distância do 279:  74.4582| Tempo: 1526.795380528585
+Distância do 285:  111.94| Tempo: 1526.795380549184
+Distância do 321:  112.512| Tempo: 1528.488294550465
+Distância do 297:  119.439| Tempo: 1531.821836728406
+Distância do 351:  120.013| Tempo: 1531.821836731545
+Distância do 87:  126.937| Tempo: 1531.821836753427
+Distância do 357:  141.935| Tempo: 1531.821836803468
+Distância do 159:  142.516| Tempo: 1538.488933879337
+Distância do 363:  149.434| Tempo: 1538.488933893488
+Distância do 27:  150.017| Tempo: 1538.488933897573
+Distância do 201:  135.015| Tempo: 1540.175867904358
+Distância do 225:  134.436| Tempo: 1540.175867908443
+Distância do 393:  156.934| Tempo: 1540.175867928495
+Distância do 249:  127.514| Tempo: 1540.175867929378
+Distância do 327:  157.518| Tempo: 1540.175867929378
+Distância do 303:  165.019| Tempo: 1540.175867954399
+Distância do 195:  180.021| Tempo: 1540.175868004441
+Distância do 411:  164.433| Tempo: 1541.842651954702
+Distância do 387:  186.933| Tempo: 1541.842652029764
+Distância do 483:  171.933| Tempo: 1550.176507087975
+Distância do 207:  172.52| Tempo: 1550.176507092059
+Distância do 465:  179.433| Tempo: 1550.176507112995
+Distância do 231:  201.933| Tempo: 1550.176507188058
+Distância do 405:  187.522| Tempo: 1551.863636141155
+Distância do 435:  194.433| Tempo: 1551.863636163037
+Distância do 309:  202.524| Tempo: 1553.53040719085
+Distância do 471:  195.023| Tempo: 1555.197191173907
+Distância do 501:  209.433| Tempo: 1555.197191213079
+Distância do 345:  210.025| Tempo: 1555.197191216217
+Distância do 531:  225.027| Tempo: 1555.197191265733
+Distância do 585:  239.434| Tempo: 1555.197191313162
+Distância do 507:  224.433| Tempo: 1558.530733276782
+Distância do 417:  217.526| Tempo: 1558.530733290933
+Distância do 555:  232.528| Tempo: 1558.530733290933
+Distância do 549:  231.934| Tempo: 1558.530733291236
+Distância do 519:  216.933| Tempo: 1558.530733295017
+Distância do 591:  240.029| Tempo: 1558.530733315954
+Distância do 639:  246.934| Tempo: 1558.530733339694
+Distância do 657:  247.53| Tempo: 1558.530733340974
+Distância do 645:  254.435| Tempo: 1558.530733364518
+Distância do 153:  255.031| Tempo: 1558.530733365995
+
+<!> Simulation time limit reached -- at t=1590s, event #225631
+
+Calling finish() at end of Run #8...
+Número de veículos que receberam o vídeo: 71
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 117:  44.5004| Tempo: 1501.666844159321
+Distância do 99:  45.0024| Tempo: 1503.358575170192
+Distância do 57:  51.9848| Tempo: 1503.358575184342
+Distância do 111:  37.5013| Tempo: 1503.358575184643
+Distância do 183:  52.5034| Tempo: 1503.358575188428
+Distância do 105:  29.5568| Tempo: 1503.358575209363
+Distância do 177:  59.4734| Tempo: 1503.358575209363
+Distância do 135:  60.0044| Tempo: 1503.358575212503
+Distância do 291:  66.9649| Tempo: 1503.358575234384
+Distância do 237:  75.0065| Tempo: 1503.358575262019
+Distância do 273:  82.5076| Tempo: 1503.358575286931
+Distância do 315:  81.953| Tempo: 1508.358888394494
+Distância do 255:  90.0086| Tempo: 1508.358888408644
+Distância do 219:  89.4488| Tempo: 1511.692430481746
+Distância do 333:  97.5096| Tempo: 1511.692430495896
+Distância do 339:  96.9455| Tempo: 1511.692430496197
+Distância do 261:  104.443| Tempo: 1511.692430520032
+Distância do 267:  105.011| Tempo: 1511.692430520916
+Distância do 285:  111.94| Tempo: 1511.692430544656
+Distância do 297:  119.439| Tempo: 1511.69243056948
+Distância do 351:  120.013| Tempo: 1511.692430570958
+Distância do 87:  126.937| Tempo: 1511.692430594383
+Distância do 279:  74.4582| Tempo: 1513.359201525003
+Distância do 63:  67.5054| Tempo: 1513.359201549138
+Distância do 249:  127.514| Tempo: 1518.359514704234
+Distância do 321:  112.512| Tempo: 1518.359514704234
+Distância do 201:  135.015| Tempo: 1518.359514729254
+Distância do 225:  134.436| Tempo: 1523.359853836424
+Distância do 159:  142.516| Tempo: 1523.359853850575
+Distância do 357:  141.935| Tempo: 1523.359853850877
+Distância do 363:  149.434| Tempo: 1523.359853874712
+Distância do 27:  150.017| Tempo: 1523.359853875596
+Distância do 393:  156.934| Tempo: 1523.359853899336
+Distância do 327:  157.518| Tempo: 1523.359853900616
+Distância do 411:  164.433| Tempo: 1525.054912924754
+Distância do 303:  165.019| Tempo: 1525.054912927893
+Distância do 483:  171.933| Tempo: 1525.054912949774
+Distância do 207:  172.52| Tempo: 1525.054912952566
+Distância do 387:  186.933| Tempo: 1525.054912999816
+Distância do 405:  187.522| Tempo: 1528.388455019961
+Distância do 435:  194.433| Tempo: 1528.388455034112
+Distância do 465:  179.433| Tempo: 1528.388455034112
+Distância do 195:  180.021| Tempo: 1528.388455034414
+Distância do 471:  195.023| Tempo: 1528.388455038196
+Distância do 231:  201.933| Tempo: 1528.388455059132
+Distância do 309:  202.524| Tempo: 1528.388455062271
+Distância do 501:  209.433| Tempo: 1533.388768142791
+Distância do 345:  210.025| Tempo: 1536.722323164834
+Distância do 519:  216.933| Tempo: 1536.722323178985
+Distância do 417:  217.526| Tempo: 1536.722323183069
+Distância do 507:  224.433| Tempo: 1536.722323204006
+Distância do 531:  225.027| Tempo: 1536.722323207144
+Distância do 555:  232.528| Tempo: 1536.722323231818
+Distância do 585:  239.434| Tempo: 1536.722323254047
+Distância do 591:  240.029| Tempo: 1536.72232325666
+Distância do 645:  254.435| Tempo: 1536.722323304089
+Distância do 549:  231.934| Tempo: 1538.427249232468
+Distância do 639:  246.934| Tempo: 1538.427249280926
+Distância do 399:  261.935| Tempo: 1538.427249330654
+Distância do 243:  270.033| Tempo: 1538.427249357269
+Distância do 657:  247.53| Tempo: 1541.760791297161
+Distância do 153:  255.031| Tempo: 1543.427562328968
+
+<!> Simulation time limit reached -- at t=1590s, event #222005
+
+Calling finish() at end of Run #9...
+Número de veículos que receberam o vídeo: 72
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 165:  22.1147| Tempo: 1503.367454096804
+Distância do 81:  30.0003| Tempo: 1503.367454110954
+Distância do 105:  29.5568| Tempo: 1503.367454111254
+Distância do 75:  37.0226| Tempo: 1503.367454135088
+Distância do 111:  37.5013| Tempo: 1503.367454135974
+Distância do 117:  44.5004| Tempo: 1503.367454159713
+Distância do 99:  45.0024| Tempo: 1503.367454160995
+Distância do 177:  59.4734| Tempo: 1503.36745420944
+Distância do 135:  60.0044| Tempo: 1503.367454211037
+Distância do 63:  67.5054| Tempo: 1503.367454236057
+Distância do 183:  52.5034| Tempo: 1508.367767236058
+Distância do 291:  66.9649| Tempo: 1510.03453829697
+Distância do 237:  75.0065| Tempo: 1510.03453831112
+Distância do 279:  74.4582| Tempo: 1510.034538311421
+Distância do 273:  82.5076| Tempo: 1515.034877396168
+Distância do 315:  81.953| Tempo: 1515.034877396469
+Distância do 219:  89.4488| Tempo: 1515.034877420303
+Distância do 255:  90.0086| Tempo: 1515.034877421188
+Distância do 333:  97.5096| Tempo: 1515.034877446209
+Distância do 267:  105.011| Tempo: 1515.03487747123
+Distância do 285:  111.94| Tempo: 1515.034877494655
+Distância do 321:  112.512| Tempo: 1515.034877496251
+Distância do 351:  120.013| Tempo: 1516.727219521272
+Distância do 297:  119.439| Tempo: 1516.727219521574
+Distância do 261:  104.443| Tempo: 1516.727219525357
+Distância do 87:  126.937| Tempo: 1516.727219545408
+Distância do 249:  127.514| Tempo: 1516.727219546292
+Distância do 339:  96.9455| Tempo: 1516.727219549433
+Distância do 201:  135.015| Tempo: 1516.727219571313
+Distância do 357:  141.935| Tempo: 1516.727219594856
+Distância do 159:  142.516| Tempo: 1521.727532655965
+Distância do 225:  134.436| Tempo: 1521.727532670116
+Distância do 363:  149.434| Tempo: 1521.727532670116
+Distância do 27:  150.017| Tempo: 1521.727532674201
+Distância do 393:  156.934| Tempo: 1521.727532695137
+Distância do 327:  157.518| Tempo: 1521.727532698276
+Distância do 303:  165.019| Tempo: 1526.727845819356
+Distância do 411:  164.433| Tempo: 1526.727845819659
+Distância do 483:  171.933| Tempo: 1531.728158904707
+Distância do 207:  172.52| Tempo: 1531.728158908791
+Distância do 465:  179.433| Tempo: 1531.728158929727
+Distância do 435:  194.433| Tempo: 1531.728158979769
+Distância do 471:  195.023| Tempo: 1531.728158982382
+Distância do 195:  180.021| Tempo: 1533.394942940598
+Distância do 309:  202.524| Tempo: 1533.39494301566
+Distância do 387:  186.933| Tempo: 1535.061713965921
+Distância do 231:  201.933| Tempo: 1538.395256029625
+Distância do 345:  210.025| Tempo: 1538.395256043776
+Distância do 501:  209.433| Tempo: 1538.395256044079
+Distância do 519:  216.933| Tempo: 1541.728798080959
+Distância do 417:  217.526| Tempo: 1541.728798085043
+Distância do 507:  224.433| Tempo: 1541.72879810598
+Distância do 531:  225.027| Tempo: 1541.728798109118
+Distância do 549:  231.934| Tempo: 1541.728798131
+Distância do 555:  232.528| Tempo: 1541.728798133792
+Distância do 585:  239.434| Tempo: 1541.728798156021
+Distância do 591:  240.029| Tempo: 1541.728798158634
+Distância do 405:  187.522| Tempo: 1543.395569130117
+
+<!> Simulation time limit reached -- at t=1590s, event #205970
+
+Calling finish() at end of Run #10...
+Número de veículos que receberam o vídeo: 66
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 117:  44.5004| Tempo: 1501.666844159321
+Distância do 81:  30.0003| Tempo: 1503.357275114048
+Distância do 75:  37.0226| Tempo: 1503.357275136275
+Distância do 99:  45.0024| Tempo: 1511.691130265467
+Distância do 57:  51.9848| Tempo: 1511.691130289205
+Distância do 183:  52.5034| Tempo: 1511.691130290487
+Distância do 177:  59.4734| Tempo: 1511.691130314029
+Distância do 135:  60.0044| Tempo: 1511.691130315508
+Distância do 291:  66.9649| Tempo: 1513.380105339643
+Distância do 63:  67.5054| Tempo: 1513.380105340528
+Distância do 315:  81.953| Tempo: 1513.380105389091
+Distância do 219:  89.4488| Tempo: 1513.380105413995
+Distância do 255:  90.0086| Tempo: 1513.380105415591
+Distância do 273:  82.5076| Tempo: 1516.713647490653
+Distância do 333:  97.5096| Tempo: 1516.713647490653
+Distância do 339:  96.9455| Tempo: 1516.713647490954
+Distância do 261:  104.443| Tempo: 1516.713647514789
+Distância do 237:  75.0065| Tempo: 1516.713647515673
+Distância do 267:  105.011| Tempo: 1516.713647515673
+Distância do 279:  74.4582| Tempo: 1516.713647518814
+Distância do 285:  111.94| Tempo: 1516.713647539413
+Distância do 321:  112.512| Tempo: 1516.713647540694
+Distância do 297:  119.439| Tempo: 1516.713647564237
+Distância do 87:  126.937| Tempo: 1516.71364758914
+Distância do 201:  135.015| Tempo: 1516.713647615756
+
+<!> Simulation time limit reached -- at t=1590s, event #111652
+
+Calling finish() at end of Run #11...
+Número de veículos que receberam o vídeo: 36
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 51:  22.4993| Tempo: 1503.366297085933
+Distância do 105:  29.5568| Tempo: 1503.366297110067
+Distância do 75:  37.0226| Tempo: 1505.033068146845
+Distância do 99:  45.0024| Tempo: 1505.033068160995
+Distância do 117:  44.5004| Tempo: 1508.366610228789
+Distância do 183:  52.5034| Tempo: 1508.366610242939
+Distância do 57:  51.9848| Tempo: 1510.033381340794
+Distância do 177:  59.4734| Tempo: 1513.366936377968
+Distância do 135:  60.0044| Tempo: 1513.366936382054
+Distância do 291:  66.9649| Tempo: 1513.366936402989
+Distância do 279:  74.4582| Tempo: 1513.36693642801
+Distância do 237:  75.0065| Tempo: 1513.366936430803
+Distância do 315:  81.953| Tempo: 1513.366936453031
+Distância do 255:  90.0086| Tempo: 1513.366936480557
+
+<!> Simulation time limit reached -- at t=1590s, event #77928
+
+Calling finish() at end of Run #12...
+Número de veículos que receberam o vídeo: 24
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1503.355767134495
+Distância do 111:  37.5013| Tempo: 1503.355767138582
+Distância do 117:  44.5004| Tempo: 1503.355767159516
+Distância do 99:  45.0024| Tempo: 1503.355767162657
+
+<!> Simulation time limit reached -- at t=1590s, event #50233
+
+Calling finish() at end of Run #13...
+Número de veículos que receberam o vídeo: 15
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 117:  44.5004| Tempo: 1501.666844159321
+Distância do 165:  22.1147| Tempo: 1503.367051085047
+Distância do 81:  30.0003| Tempo: 1503.367051110954
+Distância do 75:  37.0226| Tempo: 1506.700593146846
+Distância do 99:  45.0024| Tempo: 1506.700593160996
+Distância do 105:  29.5568| Tempo: 1506.700593165083
+Distância do 183:  52.5034| Tempo: 1506.700593186017
+
+<!> Simulation time limit reached -- at t=1590s, event #53484
+
+Calling finish() at end of Run #14...
+Número de veículos que receberam o vídeo: 16
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 111:  37.5013| Tempo: 1510.021616250071
+Distância do 117:  44.5004| Tempo: 1510.021616274206
+Distância do 99:  45.0024| Tempo: 1511.719171275092
+Distância do 57:  51.9848| Tempo: 1511.719171299227
+Distância do 183:  52.5034| Tempo: 1511.719171300113
+Distância do 177:  59.4734| Tempo: 1511.719171323851
+Distância do 135:  60.0044| Tempo: 1511.719171325133
+Distância do 63:  67.5054| Tempo: 1511.719171350154
+Distância do 291:  66.9649| Tempo: 1513.385942350456
+Distância do 279:  74.4582| Tempo: 1513.385942375476
+Distância do 273:  82.5076| Tempo: 1516.719484453154
+Distância do 237:  75.0065| Tempo: 1518.386255429605
+Distância do 315:  81.953| Tempo: 1520.053026454927
+Distância do 261:  104.443| Tempo: 1520.053026529989
+Distância do 255:  90.0086| Tempo: 1523.386568484034
+Distância do 219:  89.4488| Tempo: 1523.386568484335
+Distância do 339:  96.9455| Tempo: 1523.386568508169
+Distância do 333:  97.5096| Tempo: 1523.386568509054
+Distância do 267:  105.011| Tempo: 1523.386568534075
+Distância do 297:  119.439| Tempo: 1523.386568582521
+Distância do 321:  112.512| Tempo: 1525.053339572581
+Distância do 285:  111.94| Tempo: 1528.386881584924
+Distância do 351:  120.013| Tempo: 1528.386881599074
+Distância do 201:  135.015| Tempo: 1530.053652747619
+Distância do 87:  126.937| Tempo: 1531.720423720094
+Distância do 249:  127.514| Tempo: 1531.720423724179
+Distância do 225:  134.436| Tempo: 1533.387194759124
+Distância do 159:  142.516| Tempo: 1533.387194773275
+Distância do 357:  141.935| Tempo: 1533.387194773577
+Distância do 363:  149.434| Tempo: 1533.387194797412
+Distância do 27:  150.017| Tempo: 1533.387194798296
+Distância do 327:  157.518| Tempo: 1533.387194823316
+Distância do 411:  164.433| Tempo: 1533.38719484686
+
+<!> Simulation time limit reached -- at t=1590s, event #142702
+
+Calling finish() at end of Run #15...
+Número de veículos que receberam o vídeo: 45
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 99:  45.0024| Tempo: 1501.666844160995
+Distância do 117:  44.5004| Tempo: 1503.361955171866
+Distância do 183:  52.5034| Tempo: 1503.361955186016
+Distância do 57:  51.9848| Tempo: 1503.361955186317
+Distância do 75:  37.0226| Tempo: 1503.361955190102
+Distância do 177:  59.4734| Tempo: 1503.361955210151
+Distância do 135:  60.0044| Tempo: 1503.361955211036
+Distância do 81:  30.0003| Tempo: 1503.361955211037
+Distância do 291:  66.9649| Tempo: 1503.361955234775
+Distância do 237:  75.0065| Tempo: 1503.361955261078
+Distância do 273:  82.5076| Tempo: 1503.361955286099
+Distância do 63:  67.5054| Tempo: 1511.695810488123
+Distância do 279:  74.4582| Tempo: 1511.695810510004
+Distância do 315:  81.953| Tempo: 1513.394639535025
+Distância do 219:  89.4488| Tempo: 1513.394639560046
+Distância do 255:  90.0086| Tempo: 1513.394639563186
+Distância do 339:  96.9455| Tempo: 1513.394639585067
+Distância do 261:  104.443| Tempo: 1513.394639610088
+Distância do 351:  120.013| Tempo: 1513.39463966256
+Distância do 297:  119.439| Tempo: 1520.061736770207
+Distância do 249:  127.514| Tempo: 1520.061736784357
+Distância do 321:  112.512| Tempo: 1520.061736784357
+Distância do 87:  126.937| Tempo: 1520.061736784659
+Distância do 285:  111.94| Tempo: 1520.061736788442
+Distância do 225:  134.436| Tempo: 1520.061736808493
+Distância do 201:  135.015| Tempo: 1520.061736809377
+Distância do 267:  105.011| Tempo: 1520.061736809377
+Distância do 159:  142.516| Tempo: 1520.061736834398
+Distância do 363:  149.434| Tempo: 1520.061736857942
+Distância do 333:  97.5096| Tempo: 1521.72850783784
+Distância do 357:  141.935| Tempo: 1523.395278937621
+Distância do 27:  150.017| Tempo: 1523.395278965781
+Distância do 327:  157.518| Tempo: 1523.395278990454
+
+<!> Simulation time limit reached -- at t=1590s, event #136222
+
+Calling finish() at end of Run #16...
+Número de veículos que receberam o vídeo: 44
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 105:  29.5568| Tempo: 1503.364594111254
+Distância do 75:  37.0226| Tempo: 1503.364594136275
+Distância do 111:  37.5013| Tempo: 1503.36459413889
+Distância do 117:  44.5004| Tempo: 1503.364594161296
+Distância do 99:  45.0024| Tempo: 1511.698449215081
+Distância do 57:  51.9848| Tempo: 1511.698449239216
+Distância do 183:  52.5034| Tempo: 1511.698449240102
+Distância do 177:  59.4734| Tempo: 1511.69844926384
+Distância do 135:  60.0044| Tempo: 1511.698449265122
+Distância do 63:  67.5054| Tempo: 1511.698449290143
+Distância do 291:  66.9649| Tempo: 1513.390180290444
+Distância do 279:  74.4582| Tempo: 1513.390180314278
+Distância do 237:  75.0065| Tempo: 1513.390180315164
+Distância do 273:  82.5076| Tempo: 1513.390180340184
+Distância do 219:  89.4488| Tempo: 1513.390180363726
+Distância do 339:  96.9455| Tempo: 1513.39018038863
+Distância do 333:  97.5096| Tempo: 1521.724035501482
+Distância do 261:  104.443| Tempo: 1521.724035515632
+Distância do 255:  90.0086| Tempo: 1521.724035515933
+Distância do 267:  105.011| Tempo: 1521.724035519718
+Distância do 285:  111.94| Tempo: 1521.724035540653
+Distância do 315:  81.953| Tempo: 1521.724035540653
+Distância do 321:  112.512| Tempo: 1521.724035543793
+Distância do 297:  119.439| Tempo: 1521.724035565674
+Distância do 351:  120.013| Tempo: 1521.724035568466
+Distância do 87:  126.937| Tempo: 1521.724035590694
+Distância do 249:  127.514| Tempo: 1523.411567593834
+Distância do 225:  134.436| Tempo: 1523.411567617574
+Distância do 201:  135.015| Tempo: 1523.411567618855
+Distância do 363:  149.434| Tempo: 1523.411567667302
+Distância do 27:  150.017| Tempo: 1530.078651878652
+Distância do 393:  156.934| Tempo: 1530.078651892803
+Distância do 327:  157.518| Tempo: 1530.078651896888
+Distância do 357:  141.935| Tempo: 1531.745422854912
+Distância do 159:  142.516| Tempo: 1531.745422858997
+Distância do 411:  164.433| Tempo: 1531.745422929974
+Distância do 303:  165.019| Tempo: 1531.745422932587
+Distância do 483:  171.933| Tempo: 1531.745422954995
+Distância do 207:  172.52| Tempo: 1533.412193958134
+Distância do 387:  186.933| Tempo: 1533.412194006581
+Distância do 435:  194.433| Tempo: 1538.412520087322
+Distância do 471:  195.023| Tempo: 1540.111817098192
+Distância do 231:  201.933| Tempo: 1540.111817112343
+Distância do 405:  187.522| Tempo: 1540.111817112645
+Distância do 309:  202.524| Tempo: 1540.111817116427
+Distância do 195:  180.021| Tempo: 1540.111817136479
+Distância do 465:  179.433| Tempo: 1540.111817137363
+Distância do 501:  209.433| Tempo: 1540.111817137364
+Distância do 345:  210.025| Tempo: 1540.111817140502
+Distância do 519:  216.933| Tempo: 1540.111817162384
+Distância do 417:  217.526| Tempo: 1540.111817165176
+Distância do 507:  224.433| Tempo: 1548.487064385803
+Distância do 531:  225.027| Tempo: 1548.487064386686
+Distância do 555:  232.528| Tempo: 1548.487064411707
+Distância do 639:  246.934| Tempo: 1548.487064460154
+Distância do 549:  231.934| Tempo: 1550.190261410824
+Distância do 585:  239.434| Tempo: 1550.190261435845
+Distância do 591:  240.029| Tempo: 1550.190261438983
+Distância do 645:  254.435| Tempo: 1550.190261485886
+Distância do 243:  270.033| Tempo: 1550.190261538358
+Distância do 657:  247.53| Tempo: 1555.190587514411
+Distância do 153:  255.031| Tempo: 1555.190587539431
+Distância do 381:  277.534| Tempo: 1555.190587614494
+Distância do 537:  276.936| Tempo: 1558.524142625364
+Distância do 369:  285.035| Tempo: 1558.524142639515
+Distância do 579:  284.437| Tempo: 1558.524142639818
+Distância do 513:  269.436| Tempo: 1558.524142643599
+Distância do 681:  291.937| Tempo: 1558.524142663652
+Distância do 213:  262.532| Tempo: 1558.524142664535
+Distância do 459:  292.536| Tempo: 1558.524142664536
+Distância do 399:  261.935| Tempo: 1558.524142667674
+Distância do 723:  299.438| Tempo: 1558.524142688276
+Distância do 489:  300.037| Tempo: 1558.524142689557
+Distância do 495:  307.538| Tempo: 1566.857997972007
+Distância do 663:  306.939| Tempo: 1566.85799797231
+Distância do 375:  315.039| Tempo: 1566.857997997027
+Distância do 717:  314.439| Tempo: 1568.561727997331
+Distância do 765:  321.94| Tempo: 1568.561728022351
+Distância do 423:  322.54| Tempo: 1568.56172802549
+Distância do 609:  329.441| Tempo: 1568.561728047372
+Distância do 429:  330.042| Tempo: 1568.561728050164
+Distância do 567:  344.442| Tempo: 1568.561728097414
+Distância do 447:  345.044| Tempo: 1568.561728099917
+Distância do 453:  337.543| Tempo: 1570.228525076477
+Distância do 597:  352.545| Tempo: 1573.562067135912
+Distância do 627:  336.941| Tempo: 1575.228838130264
+Distância do 753:  359.443| Tempo: 1575.228838203546
+Distância do 693:  366.944| Tempo: 1575.22883822845
+Distância do 669:  360.046| Tempo: 1578.562380214613
+Distância do 735:  351.943| Tempo: 1578.562380228764
+Distância do 687:  367.547| Tempo: 1578.562380232848
+Distância do 543:  374.445| Tempo: 1578.562380253784
+Distância do 621:  375.048| Tempo: 1578.562380256923
+Distância do 741:  381.946| Tempo: 1578.562380278805
+Distância do 771:  382.549| Tempo: 1578.562380281597
+Distância do 711:  396.947| Tempo: 1578.562380328847
+Distância do 525:  397.551| Tempo: 1586.896235491749
+Distância do 615:  405.052| Tempo: 1588.64155251677
+Distância do 705:  390.05| Tempo: 1588.64155251677
+Distância do 729:  404.448| Tempo: 1588.641552517073
+Distância do 651:  389.446| Tempo: 1588.641552520854
+Distância do 441:  412.553| Tempo: 1588.64155254179
+Distância do 603:  420.054| Tempo: 1588.641552566811
+
+<!> Simulation time limit reached -- at t=1590s, event #343142
+
+Calling finish() at end of Run #17...
+Número de veículos que receberam o vídeo: 113
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 105:  29.5568| Tempo: 1503.361903121825
+Distância do 111:  37.5013| Tempo: 1503.361903135975
+Distância do 75:  37.0226| Tempo: 1503.361903136276
+Distância do 165:  22.1147| Tempo: 1503.361903140062
+Distância do 117:  44.5004| Tempo: 1503.36190316011
+Distância do 99:  45.0024| Tempo: 1503.361903160996
+Distância do 57:  51.9848| Tempo: 1503.361903184734
+Distância do 135:  60.0044| Tempo: 1503.361903211037
+Distância do 177:  59.4734| Tempo: 1511.695758425168
+Distância do 63:  67.5054| Tempo: 1511.695758439318
+Distância do 291:  66.9649| Tempo: 1511.695758439619
+Distância do 279:  74.4582| Tempo: 1513.43057146464
+Distância do 237:  75.0065| Tempo: 1513.430571468726
+Distância do 183:  52.5034| Tempo: 1513.430571488775
+Distância do 315:  81.953| Tempo: 1513.430571489661
+Distância do 273:  82.5076| Tempo: 1513.430571492801
+Distância do 219:  89.4488| Tempo: 1513.430571514682
+Distância do 255:  90.0086| Tempo: 1518.430884578689
+Distância do 339:  96.9455| Tempo: 1518.430884592839
+Distância do 333:  97.5096| Tempo: 1521.764452656591
+Distância do 261:  104.443| Tempo: 1521.764452680727
+Distância do 267:  105.011| Tempo: 1521.764452681611
+Distância do 351:  120.013| Tempo: 1521.764452731653
+Distância do 285:  111.94| Tempo: 1523.431236706934
+Distância do 321:  112.512| Tempo: 1523.431236710074
+
+<!> Simulation time limit reached -- at t=1590s, event #108085
+
+Calling finish() at end of Run #18...
+Número de veículos que receberam o vídeo: 34
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 117:  44.5004| Tempo: 1501.666844159321
+Distância do 165:  22.1147| Tempo: 1503.356274085047
+Distância do 105:  29.5568| Tempo: 1503.356274109671
+Distância do 111:  37.5013| Tempo: 1505.023045135975
+Distância do 75:  37.0226| Tempo: 1505.023045136276
+Distância do 99:  45.0024| Tempo: 1505.023045160996
+Distância do 57:  51.9848| Tempo: 1505.023045184734
+Distância do 183:  52.5034| Tempo: 1505.023045186016
+Distância do 63:  67.5054| Tempo: 1505.023045236058
+Distância do 291:  66.9649| Tempo: 1510.023358303852
+Distância do 237:  75.0065| Tempo: 1510.023358318002
+Distância do 279:  74.4582| Tempo: 1510.023358318303
+Distância do 177:  59.4734| Tempo: 1513.35692635988
+Distância do 135:  60.0044| Tempo: 1513.356926360181
+Distância do 315:  81.953| Tempo: 1513.356926384901
+Distância do 273:  82.5076| Tempo: 1513.356926388041
+Distância do 219:  89.4488| Tempo: 1513.356926409922
+Distância do 255:  90.0086| Tempo: 1513.356926412715
+Distância do 339:  96.9455| Tempo: 1513.356926434942
+Distância do 333:  97.5096| Tempo: 1515.023697437736
+Distância do 321:  112.512| Tempo: 1515.023697487489
+Distância do 261:  104.443| Tempo: 1518.357239473975
+Distância do 267:  105.011| Tempo: 1518.357239477115
+Distância do 87:  126.937| Tempo: 1518.357239549037
+Distância do 249:  127.514| Tempo: 1525.024323806846
+Distância do 225:  134.436| Tempo: 1525.024323820997
+Distância do 297:  119.439| Tempo: 1525.024323820997
+Distância do 351:  120.013| Tempo: 1525.024323821299
+Distância do 201:  135.015| Tempo: 1525.024323825082
+Distância do 285:  111.94| Tempo: 1525.024323846018
+Distância do 357:  141.935| Tempo: 1525.024323846018
+Distância do 159:  142.516| Tempo: 1525.024323849157
+Distância do 363:  149.434| Tempo: 1525.024323871039
+Distância do 27:  150.017| Tempo: 1525.024323873831
+Distância do 327:  157.518| Tempo: 1525.024323898672
+Distância do 393:  156.934| Tempo: 1526.72020189606
+Distância do 483:  171.933| Tempo: 1526.720201946101
+Distância do 465:  179.433| Tempo: 1526.720201971122
+Distância do 195:  180.021| Tempo: 1533.387285991582
+Distância do 387:  186.933| Tempo: 1533.387286005733
+Distância do 207:  172.52| Tempo: 1533.387286006035
+Distância do 405:  187.522| Tempo: 1533.387286009817
+Distância do 435:  194.433| Tempo: 1533.387286030753
+Distância do 411:  164.433| Tempo: 1535.054057030754
+Distância do 303:  165.019| Tempo: 1535.054057031057
+Distância do 231:  201.933| Tempo: 1535.054057105816
+Distância do 309:  202.524| Tempo: 1535.054057108429
+Distância do 501:  209.433| Tempo: 1535.054057130837
+
+<!> Simulation time limit reached -- at t=1590s, event #176950
+
+Calling finish() at end of Run #19...
+Número de veículos que receberam o vídeo: 57
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 117:  44.5004| Tempo: 1501.666844159321
+Distância do 165:  22.1147| Tempo: 1503.356573096804
+Distância do 105:  29.5568| Tempo: 1503.356573111254
+Distância do 75:  37.0226| Tempo: 1503.356573135088
+Distância do 111:  37.5013| Tempo: 1503.356573135974
+Distância do 99:  45.0024| Tempo: 1503.356573160995
+Distância do 135:  60.0044| Tempo: 1503.356573211037
+Distância do 57:  51.9848| Tempo: 1505.023344184734
+Distância do 183:  52.5034| Tempo: 1508.356886206777
+Distância do 177:  59.4734| Tempo: 1511.690428336949
+Distância do 63:  67.5054| Tempo: 1511.690428351099
+Distância do 291:  66.9649| Tempo: 1511.6904283514
+Distância do 279:  74.4582| Tempo: 1511.690428375234
+Distância do 237:  75.0065| Tempo: 1511.69042837612
+Distância do 273:  82.5076| Tempo: 1511.69042840114
+Distância do 255:  90.0086| Tempo: 1511.690428426161
+Distância do 219:  89.4488| Tempo: 1515.023970487074
+Distância do 333:  97.5096| Tempo: 1515.023970501224
+Distância do 339:  96.9455| Tempo: 1515.023970501525
+Distância do 315:  81.953| Tempo: 1515.02397050531
+Distância do 261:  104.443| Tempo: 1515.02397052536
+Distância do 267:  105.011| Tempo: 1515.023970526244
+Distância do 285:  111.94| Tempo: 1515.023970549984
+Distância do 249:  127.514| Tempo: 1515.023970601307
+
+<!> Simulation time limit reached -- at t=1590s, event #102860
+
+Calling finish() at end of Run #20...
+Número de veículos que receberam o vídeo: 33
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 75:  37.0226| Tempo: 1505.02212218442
+Distância do 117:  44.5004| Tempo: 1510.02246127077
+Distância do 81:  30.0003| Tempo: 1510.022461271071
+Distância do 99:  45.0024| Tempo: 1510.022461274856
+Distância do 57:  51.9848| Tempo: 1510.022461295791
+Distância do 165:  22.1147| Tempo: 1510.022461295791
+Distância do 183:  52.5034| Tempo: 1510.022461298932
+Distância do 135:  60.0044| Tempo: 1510.022461323605
+Distância do 291:  66.9649| Tempo: 1510.022461345832
+Distância do 279:  74.4582| Tempo: 1510.022461370853
+Distância do 177:  59.4734| Tempo: 1511.715999320812
+Distância do 63:  67.5054| Tempo: 1511.715999348973
+Distância do 237:  75.0065| Tempo: 1511.715999373647
+Distância do 255:  90.0086| Tempo: 1511.715999423401
+Distância do 273:  82.5076| Tempo: 1520.049854516859
+Distância do 315:  81.953| Tempo: 1520.04985451716
+Distância do 219:  89.4488| Tempo: 1520.049854540994
+Distância do 339:  96.9455| Tempo: 1520.049854565618
+Distância do 333:  97.5096| Tempo: 1520.0498545669
+Distância do 267:  105.011| Tempo: 1521.740922591921
+Distância do 261:  104.443| Tempo: 1521.740922592223
+Distância do 285:  111.94| Tempo: 1521.740922616057
+Distância do 321:  112.512| Tempo: 1521.740922616941
+Distância do 297:  119.439| Tempo: 1521.740922640681
+Distância do 351:  120.013| Tempo: 1521.740922641962
+Distância do 159:  142.516| Tempo: 1521.740922717024
+Distância do 249:  127.514| Tempo: 1526.741235723904
+Distância do 87:  126.937| Tempo: 1526.741235724206
+Distância do 201:  135.015| Tempo: 1526.741235748924
+Distância do 357:  141.935| Tempo: 1528.408006784815
+Distância do 27:  150.017| Tempo: 1528.408006798966
+Distância do 363:  149.434| Tempo: 1528.408006799268
+Distância do 225:  134.436| Tempo: 1530.074777809836
+Distância do 327:  157.518| Tempo: 1531.741548874029
+Distância do 393:  156.934| Tempo: 1531.741548874331
+
+<!> Simulation time limit reached -- at t=1590s, event #141443
+
+Calling finish() at end of Run #21...
+Número de veículos que receberam o vídeo: 45
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1503.361136089134
+Distância do 105:  29.5568| Tempo: 1503.361136110067
+Distância do 81:  30.0003| Tempo: 1503.361136113209
+Distância do 75:  37.0226| Tempo: 1503.361136135088
+Distância do 111:  37.5013| Tempo: 1503.361136137882
+Distância do 99:  45.0024| Tempo: 1508.361449164197
+Distância do 117:  44.5004| Tempo: 1508.361449164498
+Distância do 57:  51.9848| Tempo: 1511.694991239561
+Distância do 183:  52.5034| Tempo: 1511.694991242702
+Distância do 177:  59.4734| Tempo: 1511.694991264582
+Distância do 291:  66.9649| Tempo: 1511.694991289602
+Distância do 237:  75.0065| Tempo: 1511.694991317129
+Distância do 315:  81.953| Tempo: 1513.361762339644
+Distância do 273:  82.5076| Tempo: 1513.36176234215
+Distância do 279:  74.4582| Tempo: 1515.028533314624
+Distância do 63:  67.5054| Tempo: 1521.695617504083
+Distância do 135:  60.0044| Tempo: 1521.695617527917
+Distância do 219:  89.4488| Tempo: 1521.695617528803
+Distância do 255:  90.0086| Tempo: 1521.695617531943
+Distância do 339:  96.9455| Tempo: 1521.695617553824
+Distância do 333:  97.5096| Tempo: 1523.396669556964
+Distância do 261:  104.443| Tempo: 1523.3966695811
+Distância do 267:  105.011| Tempo: 1523.396669581984
+Distância do 285:  111.94| Tempo: 1523.396669605724
+Distância do 321:  112.512| Tempo: 1523.396669607005
+Distância do 297:  119.439| Tempo: 1523.396669630548
+Distância do 87:  126.937| Tempo: 1531.730524972242
+Distância do 249:  127.514| Tempo: 1533.463179983112
+Distância do 225:  134.436| Tempo: 1533.463179997263
+Distância do 351:  120.013| Tempo: 1533.463179997565
+Distância do 201:  135.015| Tempo: 1533.463180001348
+Distância do 357:  141.935| Tempo: 1533.463180022284
+Distância do 159:  142.516| Tempo: 1533.463180025423
+Distância do 363:  149.434| Tempo: 1533.463180047305
+Distância do 27:  150.017| Tempo: 1533.463180050097
+Distância do 393:  156.934| Tempo: 1533.463180072325
+Distância do 327:  157.518| Tempo: 1533.463180074938
+Distância do 303:  165.019| Tempo: 1540.150817165134
+Distância do 411:  164.433| Tempo: 1540.150817165437
+Distância do 483:  171.933| Tempo: 1540.150817189271
+Distância do 207:  172.52| Tempo: 1540.150817190155
+Distância do 465:  179.433| Tempo: 1540.150817213895
+Distância do 195:  180.021| Tempo: 1540.150817215175
+Distância do 387:  186.933| Tempo: 1540.150817238719
+Distância do 405:  187.522| Tempo: 1540.150817240196
+Distância do 435:  194.433| Tempo: 1540.150817263622
+Distância do 471:  195.023| Tempo: 1546.817901286957
+Distância do 231:  201.933| Tempo: 1546.817901301108
+Distância do 309:  202.524| Tempo: 1550.151443361438
+Distância do 501:  209.433| Tempo: 1550.151443375589
+Distância do 345:  210.025| Tempo: 1550.151443379673
+Distância do 519:  216.933| Tempo: 1550.15144340061
+Distância do 417:  217.526| Tempo: 1550.151443403748
+Distância do 507:  224.433| Tempo: 1550.15144342563
+Distância do 531:  225.027| Tempo: 1550.151443428422
+Distância do 549:  231.934| Tempo: 1553.484998499715
+Distância do 555:  232.528| Tempo: 1553.484998502854
+Distância do 585:  239.434| Tempo: 1553.484998524736
+Distância do 591:  240.029| Tempo: 1553.484998527528
+Distância do 639:  246.934| Tempo: 1553.484998549757
+Distância do 657:  247.53| Tempo: 1553.48499855237
+Distância do 645:  254.435| Tempo: 1560.152095589733
+Distância do 153:  255.031| Tempo: 1561.900974600603
+Distância do 399:  261.935| Tempo: 1561.900974614754
+Distância do 213:  262.532| Tempo: 1561.900974618838
+Distância do 513:  269.436| Tempo: 1561.900974639775
+Distância do 243:  270.033| Tempo: 1561.900974642913
+Distância do 381:  277.534| Tempo: 1561.900974667587
+Distância do 579:  284.437| Tempo: 1561.900974689816
+Distância do 369:  285.035| Tempo: 1561.900974692429
+Distância do 459:  292.536| Tempo: 1561.90097471734
+Distância do 537:  276.936| Tempo: 1563.587908667996
+Distância do 723:  299.438| Tempo: 1563.587908742348
+Distância do 489:  300.037| Tempo: 1570.254992812032
+Distância do 663:  306.939| Tempo: 1570.254992826183
+Distância do 681:  291.937| Tempo: 1570.254992826183
+Distância do 495:  307.538| Tempo: 1570.254992830267
+Distância do 717:  314.439| Tempo: 1570.254992851204
+Distância do 375:  315.039| Tempo: 1570.254992854342
+Distância do 765:  321.94| Tempo: 1570.254992876224
+Distância do 423:  322.54| Tempo: 1570.254992879016
+Distância do 429:  330.042| Tempo: 1571.946749904037
+Distância do 609:  329.441| Tempo: 1575.280291912418
+Distância do 453:  337.543| Tempo: 1576.947062937136
+Distância do 627:  336.941| Tempo: 1576.947062937439
+Distância do 447:  345.044| Tempo: 1581.947389073412
+Distância do 567:  344.442| Tempo: 1581.947389073715
+Distância do 735:  351.943| Tempo: 1581.947389097549
+Distância do 597:  352.545| Tempo: 1581.947389098433
+Distância do 669:  360.046| Tempo: 1581.947389123453
+Distância do 693:  366.944| Tempo: 1583.640329147194
+Distância do 753:  359.443| Tempo: 1586.973897173799
+Distância do 687:  367.547| Tempo: 1586.973897198516
+Distância do 543:  374.445| Tempo: 1586.973897222257
+Distância do 651:  389.446| Tempo: 1586.973897271984
+Distância do 621:  375.048| Tempo: 1588.640694226738
+Distância do 741:  381.946| Tempo: 1588.640694247674
+Distância do 771:  382.549| Tempo: 1588.640694250813
+Distância do 711:  396.947| Tempo: 1588.640694297716
+
+<!> Simulation time limit reached -- at t=1590s, event #320341
+
+Calling finish() at end of Run #22...
+Número de veículos que receberam o vídeo: 107
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 99:  45.0024| Tempo: 1501.666844160995
+Distância do 117:  44.5004| Tempo: 1503.354415171866
+Distância do 111:  37.5013| Tempo: 1503.354415186016
+Distância do 183:  52.5034| Tempo: 1503.354415186016
+Distância do 57:  51.9848| Tempo: 1503.354415186317
+Distância do 75:  37.0226| Tempo: 1503.354415190102
+Distância do 177:  59.4734| Tempo: 1503.354415210151
+Distância do 135:  60.0044| Tempo: 1503.354415211036
+Distância do 81:  30.0003| Tempo: 1503.354415211037
+Distância do 105:  29.5568| Tempo: 1503.354415214178
+Distância do 291:  66.9649| Tempo: 1503.354415234775
+Distância do 63:  67.5054| Tempo: 1503.354415236057
+Distância do 279:  74.4582| Tempo: 1503.354415259599
+Distância do 237:  75.0065| Tempo: 1503.354415261078
+
+<!> Simulation time limit reached -- at t=1590s, event #72144
+
+Calling finish() at end of Run #23...
+Número de veículos que receberam o vídeo: 23
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 81:  30.0003| Tempo: 1503.357977120345
+Distância do 75:  37.0226| Tempo: 1503.357977134495
+Distância do 117:  44.5004| Tempo: 1503.357977159516
+Distância do 57:  51.9848| Tempo: 1503.357977184537
+Distância do 183:  52.5034| Tempo: 1503.35797718733
+Distância do 291:  66.9649| Tempo: 1503.357977234578
+
+<!> Simulation time limit reached -- at t=1590s, event #56159
+
+Calling finish() at end of Run #24...
+Número de veículos que receberam o vídeo: 17
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 165:  22.1147| Tempo: 1508.367858288655
+Distância do 105:  29.5568| Tempo: 1508.367858313279
+Distância do 111:  37.5013| Tempo: 1508.367858339583
+Distância do 99:  45.0024| Tempo: 1513.368171379562
+Distância do 117:  44.5004| Tempo: 1513.368171379863
+Distância do 57:  51.9848| Tempo: 1513.368171403697
+Distância do 183:  52.5034| Tempo: 1513.368171404583
+Distância do 177:  59.4734| Tempo: 1513.368171428321
+Distância do 291:  66.9649| Tempo: 1513.368171453145
+Distância do 63:  67.5054| Tempo: 1513.368171454624
+Distância do 279:  74.4582| Tempo: 1513.368171478049
+Distância do 135:  60.0044| Tempo: 1515.075554479645
+Distância do 237:  75.0065| Tempo: 1515.075554479645
+Distância do 315:  81.953| Tempo: 1515.07555450378
+Distância do 273:  82.5076| Tempo: 1515.075554504666
+Distância do 219:  89.4488| Tempo: 1515.075554528404
+Distância do 255:  90.0086| Tempo: 1515.075554529686
+Distância do 339:  96.9455| Tempo: 1515.075554553229
+Distância do 333:  97.5096| Tempo: 1520.075867657706
+Distância do 267:  105.011| Tempo: 1525.076206737156
+Distância do 261:  104.443| Tempo: 1525.076206737458
+Distância do 285:  111.94| Tempo: 1525.076206761292
+Distância do 321:  112.512| Tempo: 1525.076206762176
+Distância do 297:  119.439| Tempo: 1525.076206785916
+Distância do 351:  120.013| Tempo: 1525.076206787197
+Distância do 249:  127.514| Tempo: 1525.076206812218
+Distância do 357:  141.935| Tempo: 1525.076206860587
+Distância do 87:  126.937| Tempo: 1526.785786810937
+Distância do 225:  134.436| Tempo: 1526.785786835958
+Distância do 201:  135.015| Tempo: 1526.785786839097
+Distância do 159:  142.516| Tempo: 1526.785786863771
+Distância do 27:  150.017| Tempo: 1526.785786888613
+Distância do 327:  157.518| Tempo: 1526.785786913524
+Distância do 363:  149.434| Tempo: 1531.786099957782
+Distância do 393:  156.934| Tempo: 1531.786099972235
+Distância do 303:  165.019| Tempo: 1531.786099996953
+Distância do 411:  164.433| Tempo: 1536.786439105636
+Distância do 207:  172.52| Tempo: 1536.786439119787
+Distância do 483:  171.933| Tempo: 1536.78643912009
+Distância do 465:  179.433| Tempo: 1536.786439143924
+Distância do 195:  180.021| Tempo: 1536.786439144808
+Distância do 231:  201.933| Tempo: 1536.786439218275
+Distância do 387:  186.933| Tempo: 1538.476805168945
+Distância do 405:  187.522| Tempo: 1538.476805173029
+Distância do 435:  194.433| Tempo: 1538.476805193965
+Distância do 471:  195.023| Tempo: 1538.476805197104
+Distância do 309:  202.524| Tempo: 1538.476805221778
+Distância do 501:  209.433| Tempo: 1538.476805244007
+Distância do 345:  210.025| Tempo: 1540.143589248091
+Distância do 519:  216.933| Tempo: 1545.143902371366
+Distância do 417:  217.526| Tempo: 1545.143902372249
+Distância do 555:  232.528| Tempo: 1545.143902422291
+Distância do 591:  240.029| Tempo: 1545.143902447312
+Distância do 531:  225.027| Tempo: 1548.477457401658
+Distância do 507:  224.433| Tempo: 1548.477457401961
+Distância do 549:  231.934| Tempo: 1548.477457425795
+Distância do 585:  239.434| Tempo: 1548.477457450419
+Distância do 639:  246.934| Tempo: 1555.144554586697
+Distância do 657:  247.53| Tempo: 1555.144554587977
+Distância do 645:  254.435| Tempo: 1555.144554611521
+Distância do 153:  255.031| Tempo: 1556.866861622391
+Distância do 399:  261.935| Tempo: 1556.866861636542
+Distância do 213:  262.532| Tempo: 1556.866861640626
+Distância do 513:  269.436| Tempo: 1556.866861661563
+Distância do 243:  270.033| Tempo: 1556.866861664701
+Distância do 537:  276.936| Tempo: 1556.866861686583
+Distância do 381:  277.534| Tempo: 1556.866861689375
+Distância do 369:  285.035| Tempo: 1556.866861714217
+Distância do 459:  292.536| Tempo: 1556.866861739128
+Distância do 579:  284.437| Tempo: 1560.200416761646
+Distância do 681:  291.937| Tempo: 1560.200416786667
+Distância do 723:  299.438| Tempo: 1560.200416811687
+Distância do 489:  300.037| Tempo: 1560.200416814479
+Distância do 663:  306.939| Tempo: 1560.200416836708
+Distância do 495:  307.538| Tempo: 1560.200416839321
+Distância do 375:  315.039| Tempo: 1566.867501025819
+Distância do 423:  322.54| Tempo: 1566.86750105066
+Distância do 765:  321.94| Tempo: 1570.201056062056
+Distância do 429:  330.042| Tempo: 1570.201056076207
+Distância do 609:  329.441| Tempo: 1570.20105607651
+Distância do 717:  314.439| Tempo: 1570.201056080291
+Distância do 627:  336.941| Tempo: 1570.201056100344
+Distância do 453:  337.543| Tempo: 1570.201056101228
+Distância do 567:  344.442| Tempo: 1570.201056124968
+Distância do 735:  351.943| Tempo: 1570.201056149792
+Distância do 597:  352.545| Tempo: 1570.201056151269
+Distância do 753:  359.443| Tempo: 1576.868166274116
+Distância do 447:  345.044| Tempo: 1576.868166274419
+Distância do 669:  360.046| Tempo: 1576.8681662782
+Distância do 693:  366.944| Tempo: 1576.868166299137
+Distância do 687:  367.547| Tempo: 1576.868166302275
+Distância do 543:  374.445| Tempo: 1578.564512327358
+Distância do 621:  375.048| Tempo: 1578.564512328241
+Distância do 741:  381.946| Tempo: 1578.564512351982
+Distância do 651:  389.446| Tempo: 1578.564512376806
+Distância do 705:  390.05| Tempo: 1585.231609443279
+Distância do 711:  396.947| Tempo: 1585.23160945743
+Distância do 771:  382.549| Tempo: 1585.231609457733
+Distância do 525:  397.551| Tempo: 1585.231609461514
+Distância do 729:  404.448| Tempo: 1585.23160948245
+Distância do 615:  405.052| Tempo: 1585.231609485589
+Distância do 441:  412.553| Tempo: 1585.231609510263
+Distância do 801:  419.45| Tempo: 1585.231609532492
+
+<!> Simulation time limit reached -- at t=1590s, event #349146
+
+Calling finish() at end of Run #25...
+Número de veículos que receberam o vídeo: 113
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 81:  30.0003| Tempo: 1503.353947114048
+Distância do 75:  37.0226| Tempo: 1503.353947136275
+Distância do 111:  37.5013| Tempo: 1505.020718140362
+Distância do 117:  44.5004| Tempo: 1505.020718161296
+Distância do 99:  45.0024| Tempo: 1505.020718164437
+Distância do 183:  52.5034| Tempo: 1505.02071818911
+Distância do 135:  60.0044| Tempo: 1505.020718213952
+Distância do 63:  67.5054| Tempo: 1505.020718238864
+Distância do 57:  51.9848| Tempo: 1511.687802338349
+Distância do 291:  66.9649| Tempo: 1511.687802387797
+Distância do 279:  74.4582| Tempo: 1511.687802412701
+Distância do 177:  59.4734| Tempo: 1513.418910412818
+Distância do 237:  75.0065| Tempo: 1513.418910416904
+Distância do 315:  81.953| Tempo: 1513.418910437839
+Distância do 273:  82.5076| Tempo: 1513.418910440979
+Distância do 219:  89.4488| Tempo: 1513.41891046286
+Distância do 333:  97.5096| Tempo: 1513.418910490495
+Distância do 261:  104.443| Tempo: 1513.418910512901
+Distância do 267:  105.011| Tempo: 1518.419249526868
+Distância do 285:  111.94| Tempo: 1518.419249541018
+Distância do 321:  112.512| Tempo: 1518.419249545103
+Distância do 255:  90.0086| Tempo: 1520.08602052816
+Distância do 339:  96.9455| Tempo: 1520.086020549095
+Distância do 297:  119.439| Tempo: 1521.752791626066
+Distância do 351:  120.013| Tempo: 1521.75279162695
+Distância do 249:  127.514| Tempo: 1521.752791651971
+Distância do 225:  134.436| Tempo: 1521.752791675514
+Distância do 201:  135.015| Tempo: 1521.752791676992
+Distância do 357:  141.935| Tempo: 1521.752791700418
+Distância do 87:  126.937| Tempo: 1523.419562652274
+Distância do 363:  149.434| Tempo: 1525.086333727337
+Distância do 27:  150.017| Tempo: 1525.086333731422
+Distância do 159:  142.516| Tempo: 1531.753417777237
+Distância do 327:  157.518| Tempo: 1531.753417777237
+Distância do 393:  156.934| Tempo: 1531.753417777539
+Distância do 411:  164.433| Tempo: 1531.753417801374
+Distância do 303:  165.019| Tempo: 1531.753417802257
+Distância do 207:  172.52| Tempo: 1531.753417827278
+Distância do 483:  171.933| Tempo: 1535.086959841591
+Distância do 465:  179.433| Tempo: 1535.086959865425
+Distância do 195:  180.021| Tempo: 1535.086959866309
+Distância do 387:  186.933| Tempo: 1535.086959890049
+Distância do 405:  187.522| Tempo: 1535.086959891329
+Distância do 435:  194.433| Tempo: 1535.086959914873
+Distância do 471:  195.023| Tempo: 1535.08695991635
+Distância do 309:  202.524| Tempo: 1535.086959941371
+
+<!> Simulation time limit reached -- at t=1590s, event #174784
+
+Calling finish() at end of Run #26...
+Número de veículos que receberam o vídeo: 56
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 81:  30.0003| Tempo: 1501.666844110954
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 75:  37.0226| Tempo: 1503.353843146846
+Distância do 99:  45.0024| Tempo: 1503.353843160996
+Distância do 117:  44.5004| Tempo: 1503.353843161297
+Distância do 57:  51.9848| Tempo: 1503.353843185131
+Distância do 183:  52.5034| Tempo: 1503.353843186017
+Distância do 177:  59.4734| Tempo: 1503.353843209755
+Distância do 237:  75.0065| Tempo: 1503.353843261079
+Distância do 279:  74.4582| Tempo: 1510.020927527457
+Distância do 291:  66.9649| Tempo: 1511.715375587677
+Distância do 315:  81.953| Tempo: 1511.715375587677
+Distância do 63:  67.5054| Tempo: 1511.715375587978
+Distância do 273:  82.5076| Tempo: 1511.715375591763
+Distância do 135:  60.0044| Tempo: 1511.715375611812
+Distância do 219:  89.4488| Tempo: 1511.715375612698
+Distância do 255:  90.0086| Tempo: 1511.715375615838
+Distância do 333:  97.5096| Tempo: 1511.715375640512
+Distância do 321:  112.512| Tempo: 1511.715375690265
+Distância do 285:  111.94| Tempo: 1515.072291751105
+Distância do 351:  120.013| Tempo: 1515.072291765255
+Distância do 297:  119.439| Tempo: 1515.072291765557
+Distância do 249:  127.514| Tempo: 1518.405833838185
+Distância do 339:  96.9455| Tempo: 1520.072604837301
+Distância do 261:  104.443| Tempo: 1520.072604862322
+
+<!> Simulation time limit reached -- at t=1590s, event #108979
+
+Calling finish() at end of Run #27...
+Número de veículos que receberam o vídeo: 35
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 99:  45.0024| Tempo: 1508.356860212945
+Distância do 117:  44.5004| Tempo: 1511.690441238775
+Distância do 183:  52.5034| Tempo: 1511.690441252925
+Distância do 57:  51.9848| Tempo: 1511.690441253226
+Distância do 75:  37.0226| Tempo: 1511.690441257011
+Distância do 177:  59.4734| Tempo: 1511.69044127706
+Distância do 135:  60.0044| Tempo: 1511.690441277945
+Distância do 81:  30.0003| Tempo: 1511.690441277946
+Distância do 105:  29.5568| Tempo: 1511.690441281087
+Distância do 63:  67.5054| Tempo: 1511.690441302966
+Distância do 279:  74.4582| Tempo: 1511.690441326508
+Distância do 237:  75.0065| Tempo: 1511.690441327987
+Distância do 315:  81.953| Tempo: 1511.690441351412
+Distância do 291:  66.9649| Tempo: 1513.389348302081
+Distância do 219:  89.4488| Tempo: 1513.389348377143
+Distância do 273:  82.5076| Tempo: 1515.056132356209
+Distância do 255:  90.0086| Tempo: 1515.056132380284
+Distância do 333:  97.5096| Tempo: 1515.056132404958
+Distância do 339:  96.9455| Tempo: 1520.056445452808
+Distância do 261:  104.443| Tempo: 1520.056445476643
+Distância do 267:  105.011| Tempo: 1520.056445477527
+Distância do 285:  111.94| Tempo: 1520.056445501267
+Distância do 249:  127.514| Tempo: 1520.05644555259
+Distância do 321:  112.512| Tempo: 1521.723216502548
+Distância do 297:  119.439| Tempo: 1521.723216526288
+Distância do 351:  120.013| Tempo: 1521.723216527569
+Distância do 87:  126.937| Tempo: 1521.723216551112
+Distância do 225:  134.436| Tempo: 1521.723216576016
+Distância do 201:  135.015| Tempo: 1526.723529591275
+
+<!> Simulation time limit reached -- at t=1590s, event #122354
+
+Calling finish() at end of Run #28...
+Número de veículos que receberam o vídeo: 39
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 111:  37.5013| Tempo: 1503.353726145249
+Distância do 105:  29.5568| Tempo: 1503.353726159399
+Distância do 117:  44.5004| Tempo: 1503.353726159399
+Distância do 81:  30.0003| Tempo: 1503.3537261597
+Distância do 99:  45.0024| Tempo: 1503.353726163485
+Distância do 57:  51.9848| Tempo: 1503.35372618442
+Distância do 183:  52.5034| Tempo: 1503.353726187561
+Distância do 135:  60.0044| Tempo: 1503.353726212234
+Distância do 63:  67.5054| Tempo: 1503.353726237076
+Distância do 279:  74.4582| Tempo: 1503.353726259482
+Distância do 177:  59.4734| Tempo: 1510.020810331266
+Distância do 291:  66.9649| Tempo: 1513.354352542309
+Distância do 237:  75.0065| Tempo: 1513.35435257047
+Distância do 315:  81.953| Tempo: 1513.354352592351
+Distância do 273:  82.5076| Tempo: 1513.354352595144
+Distância do 219:  89.4488| Tempo: 1515.046538619626
+Distância do 255:  90.0086| Tempo: 1515.046538620511
+Distância do 321:  112.512| Tempo: 1515.046538695574
+Distância do 285:  111.94| Tempo: 1518.380093706445
+Distância do 267:  105.011| Tempo: 1518.380093720595
+Distância do 351:  120.013| Tempo: 1518.380093720595
+Distância do 297:  119.439| Tempo: 1518.380093720897
+Distância do 261:  104.443| Tempo: 1518.38009372468
+Distância do 87:  126.937| Tempo: 1518.380093744731
+Distância do 249:  127.514| Tempo: 1518.380093745615
+Distância do 339:  96.9455| Tempo: 1520.046864745918
+Distância do 333:  97.5096| Tempo: 1520.046864750004
+
+<!> Simulation time limit reached -- at t=1590s, event #115674
+
+Calling finish() at end of Run #29...
+Número de veículos que receberam o vídeo: 37
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 165:  22.1147| Tempo: 1501.66684408465
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 75:  37.0226| Tempo: 1501.666844134378
+Distância do 51:  22.4993| Tempo: 1503.353973095521
+Distância do 81:  30.0003| Tempo: 1503.353973113758
+Distância do 111:  37.5013| Tempo: 1503.353973137833
+Distância do 99:  45.0024| Tempo: 1503.353973162507
+Distância do 57:  51.9848| Tempo: 1503.353973184733
+Distância do 177:  59.4734| Tempo: 1503.353973209754
+Distância do 135:  60.0044| Tempo: 1503.35397321226
+Distância do 117:  44.5004| Tempo: 1510.021057263239
+Distância do 183:  52.5034| Tempo: 1510.021057287959
+Distância do 291:  66.9649| Tempo: 1513.354612436802
+Distância do 63:  67.5054| Tempo: 1513.354612439595
+Distância do 279:  74.4582| Tempo: 1513.354612461822
+Distância do 255:  90.0086| Tempo: 1515.02139651595
+Distância do 237:  75.0065| Tempo: 1518.354964518754
+Distância do 315:  81.953| Tempo: 1518.354964539689
+Distância do 273:  82.5076| Tempo: 1518.354964542829
+Distância do 219:  89.4488| Tempo: 1518.35496456471
+Distância do 333:  97.5096| Tempo: 1520.021735592524
+Distância do 339:  96.9455| Tempo: 1520.021735592825
+Distância do 261:  104.443| Tempo: 1520.02173561666
+Distância do 267:  105.011| Tempo: 1520.021735617544
+Distância do 285:  111.94| Tempo: 1520.021735641284
+Distância do 321:  112.512| Tempo: 1520.021735642565
+Distância do 351:  120.013| Tempo: 1520.021735667586
+Distância do 201:  135.015| Tempo: 1528.355590877145
+Distância do 225:  134.436| Tempo: 1530.074023888015
+Distância do 159:  142.516| Tempo: 1530.074023902166
+Distância do 249:  127.514| Tempo: 1530.074023902166
+Distância do 357:  141.935| Tempo: 1530.074023902468
+Distância do 87:  126.937| Tempo: 1530.074023906251
+Distância do 27:  150.017| Tempo: 1530.074023927187
+Distância do 297:  119.439| Tempo: 1530.074023930326
+Distância do 393:  156.934| Tempo: 1530.074023950927
+Distância do 411:  164.433| Tempo: 1530.074023975751
+Distância do 483:  171.933| Tempo: 1530.074024000654
+Distância do 303:  165.019| Tempo: 1535.102976091321
+Distância do 207:  172.52| Tempo: 1536.769747116342
+Distância do 465:  179.433| Tempo: 1536.769747130493
+Distância do 195:  180.021| Tempo: 1536.769747134577
+Distância do 327:  157.518| Tempo: 1536.76974715463
+Distância do 387:  186.933| Tempo: 1536.769747155513
+Distância do 435:  194.433| Tempo: 1536.769747180534
+Distância do 471:  195.023| Tempo: 1536.769747183326
+Distância do 309:  202.524| Tempo: 1536.769747208168
+Distância do 363:  149.434| Tempo: 1543.436831284028
+Distância do 231:  201.933| Tempo: 1545.103602403452
+Distância do 501:  209.433| Tempo: 1548.437183632846
+Distância do 345:  210.025| Tempo: 1548.43718363693
+Distância do 405:  187.522| Tempo: 1548.437183656983
+Distância do 519:  216.933| Tempo: 1548.437183657867
+Distância do 531:  225.027| Tempo: 1548.437183685679
+Distância do 549:  231.934| Tempo: 1548.437183707908
+Distância do 555:  232.528| Tempo: 1548.437183710521
+Distância do 417:  217.526| Tempo: 1550.130318661951
+Distância do 507:  224.433| Tempo: 1550.130318682888
+Distância do 585:  239.434| Tempo: 1550.130318732929
+Distância do 639:  246.934| Tempo: 1550.13031875795
+
+<!> Simulation time limit reached -- at t=1590s, event #211144
+
+Calling finish() at end of Run #30...
+Número de veículos que receberam o vídeo: 67
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 105:  29.5568| Tempo: 1501.666844109474
+Distância do 111:  37.5013| Tempo: 1501.666844135975
+Distância do 165:  22.1147| Tempo: 1503.355962086233
+Distância do 81:  30.0003| Tempo: 1503.355962110953
+Distância do 75:  37.0226| Tempo: 1503.355962134691
+Distância do 117:  44.5004| Tempo: 1503.355962159516
+Distância do 99:  45.0024| Tempo: 1510.023046232779
+Distância do 183:  52.5034| Tempo: 1511.712918294274
+Distância do 57:  51.9848| Tempo: 1511.712918294575
+Distância do 177:  59.4734| Tempo: 1511.712918318409
+Distância do 135:  60.0044| Tempo: 1511.712918319294
+Distância do 291:  66.9649| Tempo: 1511.712918343033
+Distância do 63:  67.5054| Tempo: 1511.712918344315
+Distância do 279:  74.4582| Tempo: 1513.415543368054
+Distância do 237:  75.0065| Tempo: 1513.41554337214
+Distância do 315:  81.953| Tempo: 1513.415543393075
+Distância do 273:  82.5076| Tempo: 1513.415543396215
+Distância do 219:  89.4488| Tempo: 1513.415543418096
+Distância do 339:  96.9455| Tempo: 1513.415543443116
+Distância do 333:  97.5096| Tempo: 1513.415543445731
+Distância do 267:  105.011| Tempo: 1513.415543470642
+Distância do 261:  104.443| Tempo: 1520.082653568222
+Distância do 285:  111.94| Tempo: 1523.4162346082
+Distância do 321:  112.512| Tempo: 1523.416234612285
+Distância do 255:  90.0086| Tempo: 1523.416234632336
+Distância do 297:  119.439| Tempo: 1523.416234633221
+Distância do 351:  120.013| Tempo: 1523.41623463636
+Distância do 87:  126.937| Tempo: 1525.121017661442
+Distância do 249:  127.514| Tempo: 1525.121017662326
+Distância do 201:  135.015| Tempo: 1525.121017687347
+Distância do 27:  150.017| Tempo: 1525.121017737389
+Distância do 225:  134.436| Tempo: 1526.78778868765
+Distância do 327:  157.518| Tempo: 1528.454559765326
+Distância do 393:  156.934| Tempo: 1531.788101826763
+Distância do 303:  165.019| Tempo: 1531.788101840914
+Distância do 411:  164.433| Tempo: 1531.788101841217
+Distância do 483:  171.933| Tempo: 1531.788101865051
+Distância do 207:  172.52| Tempo: 1531.788101865935
+Distância do 357:  141.935| Tempo: 1533.45487287002
+Distância do 159:  142.516| Tempo: 1533.454872873159
+Distância do 465:  179.433| Tempo: 1536.788414997931
+Distância do 195:  180.021| Tempo: 1536.788415002015
+Distância do 387:  186.933| Tempo: 1536.788415022951
+Distância do 405:  187.522| Tempo: 1536.78841502609
+Distância do 435:  194.433| Tempo: 1536.788415047972
+Distância do 471:  195.023| Tempo: 1536.788415050764
+Distância do 231:  201.933| Tempo: 1536.788415072993
+Distância do 309:  202.524| Tempo: 1536.788415075606
+Distância do 501:  209.433| Tempo: 1541.788728109187
+Distância do 345:  210.025| Tempo: 1541.788728113271
+Distância do 519:  216.933| Tempo: 1541.788728134208
+Distância do 507:  224.433| Tempo: 1541.788728159228
+Distância do 549:  231.934| Tempo: 1541.788728184249
+Distância do 591:  240.029| Tempo: 1541.788728211774
+Distância do 531:  225.027| Tempo: 1546.789041229533
+Distância do 417:  217.526| Tempo: 1548.455812254554
+Distância do 585:  239.434| Tempo: 1548.455812282713
+Distância do 657:  247.53| Tempo: 1548.455812296864
+Distância do 639:  246.934| Tempo: 1548.455812297167
+Distância do 555:  232.528| Tempo: 1550.12259629781
+Distância do 153:  255.031| Tempo: 1550.122596372872
+Distância do 399:  261.935| Tempo: 1550.122596396299
+Distância do 513:  269.436| Tempo: 1550.122596421242
+Distância do 645:  254.435| Tempo: 1553.456138376376
+Distância do 213:  262.532| Tempo: 1553.456138401093
+Distância do 243:  270.033| Tempo: 1553.456138426114
+Distância do 381:  277.534| Tempo: 1560.123222510767
+Distância do 537:  276.936| Tempo: 1560.12322251107
+Distância do 579:  284.437| Tempo: 1560.123222534904
+Distância do 369:  285.035| Tempo: 1560.123222535788
+Distância do 681:  291.937| Tempo: 1560.123222559528
+Distância do 459:  292.536| Tempo: 1560.123222560808
+Distância do 489:  300.037| Tempo: 1560.123222585829
+Distância do 663:  306.939| Tempo: 1560.123222609256
+Distância do 495:  307.538| Tempo: 1560.12322261085
+Distância do 723:  299.438| Tempo: 1565.123535702534
+Distância do 717:  314.439| Tempo: 1570.123874845874
+Distância do 375:  315.039| Tempo: 1570.123874849012
+Distância do 765:  321.94| Tempo: 1570.123874870894
+Distância do 423:  322.54| Tempo: 1570.123874873686
+Distância do 429:  330.042| Tempo: 1570.123874898527
+Distância do 609:  329.441| Tempo: 1571.828475895915
+Distância do 627:  336.941| Tempo: 1571.828475920935
+Distância do 567:  344.442| Tempo: 1571.828475945956
+Distância do 597:  352.545| Tempo: 1571.82847597359
+Distância do 693:  366.944| Tempo: 1571.828476021018
+Distância do 453:  337.543| Tempo: 1573.49525992502
+Distância do 687:  367.547| Tempo: 1576.828802036276
+Distância do 543:  374.445| Tempo: 1576.828802050427
+Distância do 753:  359.443| Tempo: 1576.828802050427
+Distância do 669:  360.046| Tempo: 1576.82880205073
+Distância do 621:  375.048| Tempo: 1576.828802054511
+Distância do 741:  381.946| Tempo: 1576.828802075447
+Distância do 771:  382.549| Tempo: 1581.829115136359
+Distância do 651:  389.446| Tempo: 1581.829115157296
+Distância do 705:  390.05| Tempo: 1581.829115160434
+Distância do 711:  396.947| Tempo: 1581.829115182316
+Distância do 735:  351.943| Tempo: 1581.829115182316
+Distância do 525:  397.551| Tempo: 1581.829115185108
+Distância do 573:  411.949| Tempo: 1581.829115232358
+Distância do 441:  412.553| Tempo: 1581.829115234861
+Distância do 615:  405.052| Tempo: 1583.495886218207
+Distância do 447:  345.044| Tempo: 1586.829428222594
+Distância do 729:  404.448| Tempo: 1588.496199385663
+
+<!> Simulation time limit reached -- at t=1590s, event #348027
+
+Calling finish() at end of Run #31...
+Número de veículos que receberam o vídeo: 112
+
+
+Running simulation...
+Distância do 93:  3.25972| Tempo: 1501.666844021742
+Distância do 147:  7.5048| Tempo: 1501.666844035892
+Distância do 171:  7.49723| Tempo: 1501.666844035892
+Distância do 141:  7.58772| Tempo: 1501.666844036192
+Distância do 45:  8.72977| Tempo: 1501.666844039979
+Distância do 189:  14.7327| Tempo: 1501.666844060026
+Distância do 123:  14.9983| Tempo: 1501.666844060912
+Distância do 51:  22.4993| Tempo: 1501.666844085933
+Distância do 165:  22.1147| Tempo: 1506.694574145863
+Distância do 105:  29.5568| Tempo: 1511.694887192626
+Distância do 81:  30.0003| Tempo: 1511.694887196713
+Distância do 75:  37.0226| Tempo: 1511.694887217647
+Distância do 111:  37.5013| Tempo: 1511.694887220788
+Distância do 117:  44.5004| Tempo: 1511.694887242668
+Distância do 57:  51.9848| Tempo: 1511.694887267688
+Distância do 183:  52.5034| Tempo: 1511.694887270303
+Distância do 135:  60.0044| Tempo: 1511.694887295215
+Distância do 99:  45.0024| Tempo: 1513.383004245809
+Distância do 63:  67.5054| Tempo: 1515.049775320345
+
+<!> Simulation time limit reached -- at t=1590s, event #63879
+
+Calling finish() at end of Run #32...
+Número de veículos que receberam o vídeo: 19
+
+Run statistics: total 33, successful 33
+
+End.
