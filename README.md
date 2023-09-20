@@ -10,4 +10,4 @@ A figura a seguir mostra o **ReG3M** disseminando os vídeos entre os veículos 
 ![ReG3M](https://user-images.githubusercontent.com/43869367/72257904-86994600-35eb-11ea-8877-6d460b0b3f6f.gif)
 
 
-Desta forma, o **ReG3M** dissemina o vídeo por todos os veículos do congestinamento, sem conlisões.
+Desta forma, o **ReG3M** dissemina o vídeo por todos os veículos do congestinamento, sem colisões.
